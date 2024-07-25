@@ -86,6 +86,7 @@ function Content() {
     });
   };
 
+  console.log(imageSrc)
   return (
     <div className="content-container">
       <div className="image-container">
